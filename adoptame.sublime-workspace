@@ -1,0 +1,2517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rech",
+				"recherche"
+			],
+			[
+				"ex",
+				"excluded"
+			],
+			[
+				"exclude",
+				"excludeItem"
+			],
+			[
+				"navigation",
+				"navigation"
+			],
+			[
+				"attrPae",
+				"attrPage"
+			],
+			[
+				"tag",
+				"tags"
+			],
+			[
+				"desk",
+				"desktopSize"
+			],
+			[
+				"lands",
+				"landscapeSize"
+			],
+			[
+				"portra",
+				"portraitSize"
+			],
+			[
+				"portr",
+				"portraitSize"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"content",
+				"contentsForNavigationsYearAndMonth"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"order",
+				"ORDER"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"requ",
+				"requestIdWeekly"
+			],
+			[
+				"pre",
+				"prediction"
+			],
+			[
+				"txt",
+				"txtDaily"
+			],
+			[
+				"reques",
+				"requestId"
+			],
+			[
+				"astrona",
+				"astroNav"
+			],
+			[
+				"astro",
+				"astroName"
+			],
+			[
+				"request",
+				"requestId"
+			],
+			[
+				"is",
+				"isDuJour"
+			],
+			[
+				"getPa",
+				"getParent"
+			],
+			[
+				"domain",
+				"domain_id"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"objec",
+				"object_id"
+			],
+			[
+				"find",
+				"findOneById"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"main",
+				"margin-top"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"col",
+				"collection_id"
+			],
+			[
+				"desing",
+				"designerId"
+			],
+			[
+				"season",
+				"seasonId"
+			],
+			[
+				"des",
+				"designerId"
+			],
+			[
+				"gal",
+				"gallerySlick"
+			],
+			[
+				"na",
+				"navigation_id"
+			],
+			[
+				"nav",
+				"navId"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"at",
+				"attributesPage"
+			],
+			[
+				"next",
+				"nextIndex"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"attr",
+				"attr-index"
+			],
+			[
+				"dm",
+				"dmApiInit"
+			],
+			[
+				"ani",
+				"animate"
+			],
+			[
+				"avo",
+				"avoirAussi"
+			],
+			[
+				"last",
+				"lastVideos"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"article",
+				"articleLire"
+			],
+			[
+				"relate",
+				"relatedsModel"
+			],
+			[
+				"total",
+				"totalPages"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"int",
+				"parseInt"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"nai",
+				"navigation"
+			],
+			[
+				"doma",
+				"domain"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"getda",
+				"getFrenchDay"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"add",
+				"addImage"
+			],
+			[
+				"submit",
+				"submitForm"
+			],
+			[
+				"d",
+				"preventDefault"
+			],
+			[
+				"old",
+				"oldNavigation"
+			],
+			[
+				"con",
+				"contentId"
+			],
+			[
+				"new",
+				"newNavigation"
+			],
+			[
+				"confi",
+				"configureNavigationSelect"
+			],
+			[
+				"do",
+				"domainSelect"
+			],
+			[
+				"aja",
+				"ajaxResponse"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"getDomain",
+				"getDomainId"
+			],
+			[
+				"getdoma",
+				"getDomainId"
+			],
+			[
+				"getDoma",
+				"getDomainId"
+			],
+			[
+				"class",
+				"get_class"
+			],
+			[
+				"isn",
+				"instanceof"
+			],
+			[
+				"edi",
+				"editForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"data",
+				"data-url"
+			],
+			[
+				"selec",
+				"select2"
+			],
+			[
+				"arra",
+				"arrayName"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"img",
+				"imgId"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"conco",
+				"concours-form"
+			],
+			[
+				"cntent",
+				"contentsData"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"create",
+				"createdAt"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"conten",
+				"contentsData"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"show",
+				"show-full-screen"
+			],
+			[
+				"icon",
+				"icon-close"
+			],
+			[
+				"domai",
+				"domain"
+			],
+			[
+				"this",
+				"this-"
+			],
+			[
+				"publis",
+				"publish_date"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"enti",
+				"entityManager"
+			],
+			[
+				"domian",
+				"domainsAllowed"
+			],
+			[
+				"vog",
+				"vog"
+			],
+			[
+				"publish",
+				"publishedAfter"
+			],
+			[
+				"lan",
+				"langEn"
+			],
+			[
+				"dom",
+				"domainAllow"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"api",
+				"api_info"
+			],
+			[
+				"pub",
+				"publishedAfter"
+			],
+			[
+				"em",
+				"data-embed"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"psi",
+				"position"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"timel",
+				"timeSlick"
+			],
+			[
+				"time",
+				"timeSlick"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"text",
+				"text-align-last"
+			],
+			[
+				"so",
+				"social-icons"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/config/config.js",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/chofer.js",
+			"settings":
+			{
+				"buffer_size": 570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/routes.js",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"html bea",
+				"HTMLBeautify"
+			],
+			[
+				"html b",
+				"HTMLBeautify"
+			],
+			[
+				"jsbea",
+				"Javascript Beautify"
+			],
+			[
+				"jsb",
+				"Javascript Beautify"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"reie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htmb",
+				"HTMLBeautify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitx",
+				"GitX: Open GitX"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitX: Open GitX"
+			],
+			[
+				"git ",
+				"GitX: Open GitX"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsbe",
+				"Javascript Beautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"reode",
+				"Project: Refresh Folders"
+			],
+			[
+				"htmlb	",
+				"HTMLBeautify"
+			],
+			[
+				"htl",
+				"HTMLBeautify"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"HTMLBEA",
+				"HTMLBeautify"
+			],
+			[
+				"hm",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"riede",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"eide",
+				"Preferences: Settings - Default"
+			],
+			[
+				"html be",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js bea",
+				"Javascript Beautify"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reude",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ym",
+				"Set Syntax: YAML"
+			],
+			[
+				"redie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"reoide",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"red",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"REIDE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsba",
+				"Javascript Beautify"
+			],
+			[
+				"remove paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"rede",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"be",
+				"SassBeautify"
+			],
+			[
+				"reyde",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsbrea",
+				"Javascript Beautify"
+			],
+			[
+				"sjbea",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ei",
+				"Preferences: Settings - Default"
+			],
+			[
+				"twgi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"eride",
+				"Preferences: Settings - Default"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ERIDE",
+				"Preferences: Settings - Default"
+			],
+			[
+				"beayt",
+				"HTMLBeautify"
+			],
+			[
+				"beay",
+				"SassBeautify"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"reidde",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"redi",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"redei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jsbae",
+				"Javascript Beautify"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"js b",
+				"Javascript Beautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"twit",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"TWIG",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"tw	",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"twg",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"synta js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsv",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"teig",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"tiw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"htmlbea",
+				"HTMLBeautify"
+			],
+			[
+				"htmbe",
+				"HTMLBeautify"
+			],
+			[
+				"tmlba",
+				"HTMLBeautify"
+			],
+			[
+				"htlb",
+				"HTMLBeautify"
+			],
+			[
+				"htmlba",
+				"HTMLBeautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"sassb",
+				"SassBeautify"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"scss s",
+				"Set Syntax: CSS"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"redient",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"beaty",
+				"HTMLBeautify"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php ",
+				"Set Syntax: PHP"
+			],
+			[
+				"HTML B",
+				"HTMLBeautify"
+			],
+			[
+				"reident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git i",
+				"Github: Issues"
+			],
+			[
+				"git s",
+				"Github: Plugin Settings"
+			],
+			[
+				"JSBEA",
+				"Javascript Beautify"
+			],
+			[
+				"upcase",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower ",
+				"Snippet: |lowercase"
+			],
+			[
+				"SASS",
+				"SassBeautify"
+			],
+			[
+				"sassbe",
+				"SassBeautify"
+			],
+			[
+				"sass bea",
+				"SassBeautify"
+			],
+			[
+				"sassbea",
+				"SassBeautify"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"JS BEA",
+				"Javascript Beautify"
+			],
+			[
+				"js e",
+				"AngularJS: Toggle - Enable data- Prefix"
+			],
+			[
+				"beat",
+				"HTMLBeautify"
+			],
+			[
+				"JSB",
+				"Javascript Beautify"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 527.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/vagrant/adoptame",
+		"/vagrant/adoptame/app/config",
+		"/vagrant/adoptame/app/controllers",
+		"/vagrant/adoptame/app/models"
+	],
+	"file_history":
+	[
+		"/vagrant/adoptame/.gitignore",
+		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/LICENSE",
+		"/vagrant/adoptame/server.js",
+		"/vagrant/adoptame/package.json",
+		"/vagrant/adoptame/nodemon.json",
+		"/vagrant/adoptame/adoptame.sublime-project",
+		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/js/freelancer.js",
+		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/index.html",
+		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/css/main.css",
+		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/README.md",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Controller/glam/ExceptionController.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM 404 Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Repository/ContentRepository.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM 500 Template.twig",
+		"/acilia/Merlin/app/config/glam/config.yml",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Extensions/CustomControllers/CustomFrontendController.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Video Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Twig/Extensions/ContentExtension.php",
+		"/acilia/CNFront/glamour_responsive/500.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Defile Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_intro_diaporama_3.twig",
+		"/acilia/Merlin/vendor/symfony/symfony/src/Symfony/Component/Debug/Exception/FlattenException.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Template.twig",
+		"/acilia/Merlin/app/config/vog/config.yml",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Twig/Extensions/VideoChannelExtension.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Repository/VideosRepository.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Entity/Content.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HP Template.twig",
+		"/vagrant/danza/Vagrantfile",
+		"/vagrant/danza/provision/danza.conf",
+		"/vagrant/danza/provision/install.sh",
+		"/vagrant/scotch-box/provision/install.sh",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Funbox Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Articles/GLAM Article Infinite Scroll Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_article_content.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Articles/GLAM Article Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_playlist_most_recent.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Controller/glam/VideosController.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Video Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_video_aussi.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Controller/glam/NavigationsController.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Entity/Playlists.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Repository/PlaylistsRepository.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Playlists Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Playlists/GLAM Playlist Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Videos/GLAM Video Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Resources/public/glam/js/people.js",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Resources/config/glam/routing.yml",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Controller/glam/ArticlesController.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/CustomArticles/GLAM Shooting Template.html.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_article_fashion_dilemme.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_hsr_shooting_list.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_shooting_precedents.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Extensions/CustomRepositories/BaseContentRepository.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Galleries/GLAM Gallery Template.html.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_gallery_content.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_article_info.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Shows/GLAM Shows Template.html.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Videos/GLAM SP Comment Porter Video.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/People/GLAM People Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM Archives Details Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM Archives Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Astro Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Mode Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Astro Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Funbox Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Shooting Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM Search Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM SP Comment Porter HSR.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Freepages/GLAM Static Pages Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/CustomArticlesBlocks/GLAM Shooting Block 2 Vertical Photos.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/CustomArticlesBlocks/GLAM Shooting Block Photo Full Width.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/CustomArticlesBlocks/GLAM Shooting Block Single Photo.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/AttributesPage/GLAM HBT Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_js_paginate.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Articles/GLAM Astro Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Articles/GLAM Quiz Template.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_main_menu.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_top_header.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Astro.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Defile.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Astro.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HP.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM 404.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_shooting_slider.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Freepages/GLAM Static Pages.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Resources/views/glam/Blocks/glam_gallery_rechercher_defile.html.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/VideoSlideshows/GLAM VideoSlideshows.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_ops_slider.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Resources/views/glam/Blocks/glam_brand_content.html.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Command/Migrations/MigrateTemplatesCommand.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_footer.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_home_magazine.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_instant_glam.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_mode_special_accessoires.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_ops_header.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_dossier_pas_manquer.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_seo_subheader.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_user_menu.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/admag/Templates/Navigations/AD Collections accueil 2016.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/vog_mobile/Templates/CustomEventsBlocks/VOG Event Mixed - Gallery - Publicity - Tweet.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/gq/Templates/Navigations/GQ MOTY 2015 Home.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/admag_mobile/Templates/Articles/AD Vintage BIO Article.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_social_links.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_footer_playlists.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM SP HR.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_playlists_redaction.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_top_navigation.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_video_les_plus_vues.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_video_menu.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Empty Decorator.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM SP Decorator.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Controller/glam/GalleriesController.php",
+		"/acilia/Merlin/src/Merlin/BackendBundle/Resources/public/glam/js/main.js",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_top_personnalites.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_theme_semaine_article.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_modal_detail.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_looks_list_article.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_look_upload.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_list_article.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_ootd_image.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_article_docteur.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_comment_porter_suivre.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_share_buttons.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_search_list.twig",
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_plus_photos.twig"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,  *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.php",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.php",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.php",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.html",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.tml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.php",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.php",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.css",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.uml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.css",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.css",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs,  *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, -acilia/Merlin/app/logs, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.html",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.js",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache,",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.yml",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.scss",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.ph",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.twig",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, ",
+			"-/acilia/Merlin/web*, -acilia/Merlin/app/cache, *.php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"upm-lading",
+			"@media",
+			"@media(min-width:768px) {",
+			"freelancer",
+			"contact_me",
+			"glam",
+			"merlin_domain_id",
+			"404",
+			"merlin.fixed.navigations.500",
+			"2233",
+			"500",
+			"404",
+			"merlin.exceptions.404",
+			"404",
+			"glam",
+			"error",
+			"500",
+			"ExceptionController",
+			"glam",
+			"merlin.fixed.navigations.404",
+			"error",
+			"front row",
+			"navigation.url",
+			"images",
+			"getTopVideosForNavigation",
+			"item",
+			"content",
+			"'playlists':",
+			"'playlists'",
+			"first",
+			"name",
+			"isVideo",
+			"name",
+			"cover_image_id",
+			"getAdaptiveImageFromContent",
+			"last_videos",
+			"'playlists':",
+			"playlists",
+			"'playlists': ",
+			"playlists': ",
+			"'playlists':",
+			"playlists",
+			"'playlists': ",
+			"\"brick:glam_video_aussi\"",
+			"playlists",
+			"PLAYLISTS",
+			"playlists",
+			"currentPath",
+			"mnavigationsvar",
+			"var",
+			"with configuration using Navigations %}",
+			"last",
+			"last_videos_navigation",
+			"homeVideos",
+			"getLastPlaylists",
+			"getLastVideosFromNavigationWithExcludeIds",
+			"homeVideos",
+			"currentUrl",
+			"video",
+			"<section class=\"shoot_thumbs\">",
+			"hsr_shooting_content",
+			"articleLire",
+			"article",
+			"relatedArticles",
+			"currentUrl",
+			"suivant",
+			"DIAPORAMA SUIVANT",
+			"video",
+			"LES VID",
+			"LES VIDÉOS à ne pas manquer",
+			"isarticle",
+			"relatedArticles",
+			"itemNavigation",
+			"publishAt",
+			"PublishAt",
+			"publishAt",
+			"year",
+			"false",
+			" -->",
+			"<!--",
+			" -->",
+			"glam_hsr_shooting_list",
+			"-->",
+			"<div class=\"paginate-hidden-js\">",
+			"currentUrl",
+			"glam_js_paginat",
+			"totalPages",
+			"-->",
+			"related",
+			"Related",
+			"related",
+			"glam_shooting_slider",
+			"author",
+			"Author",
+			"author",
+			"Author",
+			"author",
+			"<!--",
+			"<!-- ",
+			"author",
+			"domain",
+			"gallery",
+			"show",
+			"navigation",
+			"isDuJour",
+			"images",
+			"caroussel",
+			"false",
+			"is defined and ",
+			"3",
+			"2",
+			"ops_caroussel_image_",
+			"ops_caroussel_image_1",
+			"ops_caroussel_url_1",
+			"with configuration using Images %}",
+			"with configuration using Images %}\n },",
+			"brand_block_image_1",
+			"brand_block_title_img",
+			" with configuration using Images %}",
+			"top_item_image",
+			"showvar",
+			"with configuration using Images %}",
+			"ops_caroussel_image",
+			"ops_caroussel_url",
+			"1",
+			"last_shooting",
+			"img",
+			"categories"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"glam_video_aussi",
+			" {% include 'BackendBundle:Blocks:glam_brand_content.html.twig' %}",
+			"use Merlin\\BackendBundle\\Services\\SemanticMarkup\\Interfaces\\isSemanticMarkable;",
+			"Blocks:social_bar_mobile.htm",
+			"skin_social_bar.html.twig\" with { url:",
+			"Blocks:skin_social_bar.html.twig",
+			"socials_playlist_video",
+			"{% set fullUrl = 'http://www.gqmagazine.fr' ~ top_item_url %}",
+			"{% set title = item.title ~ ' | ' ~ item.subtitle %}",
+			"{% set fullUrl = 'www.gqmagazine.fr' ~ top_item_url %}",
+			"images/fondo_registro.jpg",
+			"imgages/fondo_registro.jpg",
+			"fondo_registro.jpg",
+			"]]",
+			"[[",
+			"empresa",
+			"help"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/config/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/chofer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/config/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 110.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "adoptame.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"glam404",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM 404 Template.twig"
+			],
+			[
+				"glam500",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM 500 Template.twig"
+			],
+			[
+				"glammaindec",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"exceptioncontroller",
+				"src/Merlin/BackendBundle/Controller/glam/ExceptionController.php"
+			],
+			[
+				"glamhsrvide",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Video Template.twig"
+			],
+			[
+				"flattenexception",
+				"vendor/symfony/symfony/src/Symfony/Component/Debug/Exception/FlattenException.php"
+			],
+			[
+				"glamconfig",
+				"app/config/glam/config.yml"
+			],
+			[
+				"glam_intro_diaporama_3",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_intro_diaporama_3.twig"
+			],
+			[
+				"glamhrdefile",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Defile Template.twig"
+			],
+			[
+				"glamhsr",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Template.twig"
+			],
+			[
+				"glamhsrtempla",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Template.twig"
+			],
+			[
+				"content",
+				"src/Merlin/BackendBundle/Entity/Content.php"
+			],
+			[
+				"glamarticletemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Articles/GLAM Article Template.twig"
+			],
+			[
+				"glam_article_content",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_article_content.twig"
+			],
+			[
+				"glamarticleinfinite",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Articles/GLAM Article Infinite Scroll Template.twig"
+			],
+			[
+				"glamvideocontro",
+				"src/Merlin/BackendBundle/Controller/glam/VideosController.php"
+			],
+			[
+				"glamhrvideotemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Video Template.twig"
+			],
+			[
+				"brickglam_video_aussi",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_video_aussi.twig"
+			],
+			[
+				"glamaindeco",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glamnaviationcontro",
+				"src/Merlin/BackendBundle/Controller/glam/NavigationsController.php"
+			],
+			[
+				"glamhrtemlate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Template.twig"
+			],
+			[
+				"glammainde",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glam_home_playlist_most_recent",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_playlist_most_recent.twig"
+			],
+			[
+				"/entity/playlists",
+				"src/Merlin/BackendBundle/Entity/Playlists.php"
+			],
+			[
+				"videochanel",
+				"src/Merlin/BackendBundle/Twig/Extensions/VideoChannelExtension.php"
+			],
+			[
+				"glam_video_aussi",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_video_aussi.twig"
+			],
+			[
+				"glapeoplejs",
+				"src/Merlin/BackendBundle/Resources/public/glam/js/people.js"
+			],
+			[
+				"glamhrvideotempla",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Video Template.twig"
+			],
+			[
+				"videoextensio",
+				"src/Merlin/BackendBundle/Twig/Extensions/VideoChannelExtension.php"
+			],
+			[
+				"glamhrte",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Template.twig"
+			],
+			[
+				"videochannelextension",
+				"src/Merlin/BackendBundle/Twig/Extensions/VideoChannelExtension.php"
+			],
+			[
+				"glamrouting",
+				"src/Merlin/BackendBundle/Resources/config/glam/routing.yml"
+			],
+			[
+				"glamvideocontroller",
+				"src/Merlin/BackendBundle/Controller/glam/VideosController.php"
+			],
+			[
+				"glamhr",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Funbox Template.twig"
+			],
+			[
+				"glamhrvidetemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Video Template.twig"
+			],
+			[
+				"fashion_dilemme",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_article_fashion_dilemme.twig"
+			],
+			[
+				"ngs_precedents",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_shooting_precedents.twig"
+			],
+			[
+				"glamshooting",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/CustomArticles/GLAM Shooting Template.html.twig"
+			],
+			[
+				"glamarticlecontroller",
+				"src/Merlin/BackendBundle/Controller/glam/ArticlesController.php"
+			],
+			[
+				"glammaindecorator",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glamgallerytemp",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Galleries/GLAM Gallery Template.html.twig"
+			],
+			[
+				"glam_gallery_content",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_gallery_content.twig"
+			],
+			[
+				"glamgallerytemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Galleries/GLAM Gallery Template.html.twig"
+			],
+			[
+				"glam_article_info",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_article_info.twig"
+			],
+			[
+				"glammaindecor",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glampagina",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_js_paginate.twig"
+			],
+			[
+				"glammaindecorat",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glam_main_menu",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_main_menu.twig"
+			],
+			[
+				"glam_top_header",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_top_header.twig"
+			],
+			[
+				"glammiandeco",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glam_shooting_slider",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_shooting_slider.twig"
+			],
+			[
+				"glam_gallery_rechercher_defile",
+				"src/Merlin/BackendBundle/Resources/views/glam/Blocks/glam_gallery_rechercher_defile.html.twig"
+			],
+			[
+				"src/merlin/backendbundle/datafixtures/templates/glam/snippets/glam_dossier_pas_manquer.twig",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_dossier_pas_manquer.twig"
+			],
+			[
+				"gqmoty",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/gq/Templates/Navigations/GQ MOTY 2015 Home.twig"
+			],
+			[
+				"glamhp",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HP.twig"
+			],
+			[
+				"glamsphr",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM SP HR.twig"
+			],
+			[
+				"glamplaylisttemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Playlists/GLAM Playlist Template.twig"
+			],
+			[
+				"glammainjs",
+				"src/Merlin/BackendBundle/Resources/public/glam/js/main.js"
+			],
+			[
+				"nglam_playlists_redactio",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_playlists_redaction.twig"
+			],
+			[
+				"glambasehtml",
+				"src/Merlin/BackendBundle/Resources/views/glam/Default/base.html.twig"
+			],
+			[
+				"vogconfig",
+				"app/config/vog/config.yml"
+			],
+			[
+				"glamhrvideote",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Video Template.twig"
+			],
+			[
+				"glamserachajax",
+				"src/Merlin/BackendBundle/Resources/views/glam/Blocks/glam_search_results_ajax.html.twig"
+			],
+			[
+				"glamsearchlist",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_search_list.twig"
+			],
+			[
+				"glammainmenu",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_main_menu.twig"
+			],
+			[
+				"glamsearchjs",
+				"src/Merlin/BackendBundle/Resources/public/glam/js/search.js"
+			],
+			[
+				"vogmainjs",
+				"src/Merlin/BackendBundle/Resources/public/vog/js/main.js"
+			],
+			[
+				"glamstart",
+				"src/Merlin/BackendBundle/Resources/public/glam/js/start.js"
+			],
+			[
+				"glamasseti",
+				"app/config/glam/assetic.yml"
+			],
+			[
+				"glam_people_dernieres_actus",
+				"src/Merlin/BackendBundle/Resources/views/glam/Blocks/glam_people_dernieres_actus.html.twig"
+			],
+			[
+				"glampeopletemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/People/GLAM People Template.twig"
+			],
+			[
+				"brickglam_gallery_modal",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_gallery_modal.twig"
+			],
+			[
+				"peoplejs",
+				"src/Merlin/BackendBundle/Resources/public/glam/js/people.js"
+			],
+			[
+				"configsphinx",
+				"app/config/sphinx.conf"
+			],
+			[
+				"gqsearchcontro",
+				"src/Merlin/BackendBundle/Controller/gq/SearchController.php"
+			],
+			[
+				"gqsearch",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/gq/Templates/Navigations/GQ Search Template.twig"
+			],
+			[
+				"vogsearchcontroll",
+				"src/Merlin/BackendBundle/Controller/vog/SearchController.php"
+			],
+			[
+				"glamhrtempate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Template.twig"
+			],
+			[
+				"glamnavblock",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_nav_block.twig"
+			],
+			[
+				"glamarticlepre",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_articles_preferes.twig"
+			],
+			[
+				"glam5",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_intro_diaporama_5.twig"
+			],
+			[
+				"navblock",
+				"src/Merlin/BackendBundle/Resources/views/common/Scripts/adBlockingDetector.html.twig"
+			],
+			[
+				"glamhsrtemplat",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Template.twig"
+			],
+			[
+				"glamnavigationcontro",
+				"src/Merlin/BackendBundle/Controller/glam/NavigationsController.php"
+			],
+			[
+				"vogsearchtempla",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/gq/Templates/Navigations/GQ Search Template.twig"
+			],
+			[
+				"vogsearchcontroller",
+				"src/Merlin/BackendBundle/Controller/vog/SearchController.php"
+			],
+			[
+				"glam_share_buttons",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_share_buttons.twig"
+			],
+			[
+				"glamshareb",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_share_buttons.twig"
+			],
+			[
+				"glamarticle",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_article_diaporama.twig"
+			],
+			[
+				"glamiandecor",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"ajax",
+				"src/Merlin/BackendBundle/Resources/views/backend/LocalNotifications/latest_ajax.html.twig"
+			],
+			[
+				"glammaindeco",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"glambase",
+				"src/Merlin/BackendBundle/Resources/views/glam/Default/base.html.twig"
+			],
+			[
+				"glamsearchcontroller",
+				"src/Merlin/BackendBundle/Controller/glam/SearchController.php"
+			],
+			[
+				"glam_home_nav_block",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_nav_block.twig"
+			],
+			[
+				"glamrecherc",
+				"src/Merlin/BackendBundle/Resources/views/glam/Blocks/glam_gallery_rechercher_defile.html.twig"
+			],
+			[
+				"contnetphp",
+				"src/Merlin/BackendBundle/Entity/Content.php"
+			],
+			[
+				"merlin/backendbundle/entity/content",
+				"src/Merlin/BackendBundle/Entity/Content.php"
+			],
+			[
+				"socialplatforms",
+				"src/Merlin/BackendBundle/Entity/SocialPlatforms.php"
+			],
+			[
+				"merlinextens",
+				"src/Merlin/BackendBundle/Twig/Extensions/MerlinExtension.php"
+			],
+			[
+				"glamhsrtempa",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Template.twig"
+			],
+			[
+				"glamnavigation",
+				"src/Merlin/BackendBundle/Controller/glam/NavigationsController.php"
+			],
+			[
+				"_home_magazine",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_home_magazine.twig"
+			],
+			[
+				"homemerci",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_merci.twig"
+			],
+			[
+				"lecorner",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_corner_redaction.twig"
+			],
+			[
+				"glam_home_social_block",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_social_block.twig"
+			],
+			[
+				"glamspdeco",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM SP Decorator.twig"
+			],
+			[
+				"imagesexte",
+				"src/Merlin/BackendBundle/Twig/Extensions/ImagesExtension.php"
+			],
+			[
+				"contentex",
+				"src/Merlin/BackendBundle/Twig/Extensions/ContentExtension.php"
+			],
+			[
+				"merlinexte",
+				"src/Merlin/BackendBundle/Twig/Extensions/MerlinExtension.php"
+			],
+			[
+				"galleries",
+				"src/Merlin/BackendBundle/Entity/Galleries.php"
+			],
+			[
+				"glammaindecora",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Main Decorator.twig"
+			],
+			[
+				"customfrontendconto",
+				"src/Merlin/BackendBundle/Extensions/CustomControllers/CustomFrontendController.php"
+			],
+			[
+				"contentrepos",
+				"src/Merlin/BackendBundle/Repository/ContentRepository.php"
+			],
+			[
+				"glamhrtemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HR Mode Template.twig"
+			],
+			[
+				"glamhsrtemplate",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Navigations/GLAM HSR Template.twig"
+			],
+			[
+				"imagesextension",
+				"src/Merlin/BackendBundle/Twig/Extensions/ImagesExtension.php"
+			],
+			[
+				"contentphp",
+				"src/Merlin/BackendBundle/Entity/Content.php"
+			],
+			[
+				"glamextension",
+				"src/Merlin/BackendBundle/Twig/Extensions/GLAMExtension.php"
+			],
+			[
+				"glamshowstempla",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Templates/Shows/GLAM Shows Template.html.twig"
+			],
+			[
+				"glamshows",
+				"src/Merlin/BackendBundle/Controller/glam/ShowsController.php"
+			],
+			[
+				"glamvideo",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_home_videos.twig"
+			],
+			[
+				"moty2015",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/gq/Templates/Navigations/GQ MOTY 2015 Home.twig"
+			],
+			[
+				"twig/extensions/merlinextension.php",
+				"src/Merlin/BackendBundle/Twig/Extensions/MerlinExtension.php"
+			],
+			[
+				"merlinextensi",
+				"src/Merlin/BackendBundle/Twig/Extensions/MerlinExtension.php"
+			],
+			[
+				"glam_seo_subheader.twig",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_seo_subheader.twig"
+			],
+			[
+				"dateextens",
+				"src/Merlin/BackendBundle/Twig/Extensions/DatesExtension.php"
+			],
+			[
+				"glam",
+				"src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_footer.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/acilia/Merlin.sublime-project"
+			],
+			[
+				"dnz",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"danz",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"dn",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"upm",
+				"/vagrant/upm-lading/upmlading.sublime-project"
+			],
+			[
+				"d",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"dm",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"mer",
+				"/acilia/Merlin.sublime-project"
+			],
+			[
+				"u",
+				"/vagrant/upm-lading/upmlading.sublime-project"
+			],
+			[
+				"up",
+				"/vagrant/upm-lading/upmlading.sublime-project"
+			],
+			[
+				"pi",
+				"/acilia/pisco.sublime-project"
+			],
+			[
+				"nd",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"dan",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"m",
+				"/acilia/Merlin.sublime-project"
+			],
+			[
+				"pis",
+				"/acilia/pisco.sublime-project"
+			],
+			[
+				"ad",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"da",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"n",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"me",
+				"/acilia/Merlin.sublime-project"
+			],
+			[
+				"dns",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"dna",
+				"/vagrant/danza/DNZ.sublime-project"
+			],
+			[
+				"r",
+				"/Applications/XAMPP/xamppfiles/htdocs/ruu/RUU.sublime-workspace"
+			],
+			[
+				"tac",
+				"/Applications/XAMPP/xamppfiles/htdocs/taxiadmin/TaxiAdmin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1256.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 347.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
