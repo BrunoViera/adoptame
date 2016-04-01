@@ -520,26 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "app/config/config.js",
+			"file": "public/views/index.html",
 			"settings":
 			{
-				"buffer_size": 128,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/chofer.js",
-			"settings":
-			{
-				"buffer_size": 570,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/config/routes.js",
-			"settings":
-			{
-				"buffer_size": 368,
+				"buffer_size": 31404,
 				"line_ending": "Unix"
 			}
 		}
@@ -1110,12 +1094,19 @@
 	"expanded_folders":
 	[
 		"/vagrant/adoptame",
+		"/vagrant/adoptame/app",
 		"/vagrant/adoptame/app/config",
 		"/vagrant/adoptame/app/controllers",
-		"/vagrant/adoptame/app/models"
+		"/vagrant/adoptame/app/models",
+		"/vagrant/adoptame/public",
+		"/vagrant/adoptame/public/views"
 	],
 	"file_history":
 	[
+		"/vagrant/adoptame/README.md",
+		"/vagrant/adoptame/app/config/config.js",
+		"/vagrant/adoptame/app/models/chofer.js",
+		"/vagrant/adoptame/app/config/routes.js",
 		"/vagrant/adoptame/.gitignore",
 		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/LICENSE",
 		"/vagrant/adoptame/server.js",
@@ -1239,11 +1230,7 @@
 		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_look_upload.twig",
 		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_list_article.twig",
 		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_ootd_image.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_article_docteur.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_comment_porter_suivre.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_share_buttons.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_search_list.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_plus_photos.twig"
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_sp_hr_article_docteur.twig"
 	],
 	"find":
 	{
@@ -1389,6 +1376,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img/portfolio/",
+			"js/",
+			"js",
 			"upm-lading",
 			"@media",
 			"@media(min-width:768px) {",
@@ -1513,10 +1503,7 @@
 			"with configuration using Images %}",
 			"ops_caroussel_image",
 			"ops_caroussel_url",
-			"1",
-			"last_shooting",
-			"img",
-			"categories"
+			"1"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1551,24 +1538,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/config/config.js",
+					"file": "public/views/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 128,
+						"buffer_size": 31404,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								19,
-								19
+								10904,
+								10904
 							]
 						],
 						"settings":
@@ -1632,189 +1619,15 @@
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/models/chofer.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 570,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								570,
-								570
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/config/routes.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 368,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								149,
-								149
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3383.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -2508,7 +2321,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 347.0,
 	"status_bar_visible": true,
 	"template_settings":
