@@ -1,26 +1,37 @@
 {
-    "author"      : "Bruno Viera | Javier Dominguez",
-    "name"        : "adoptame",
-    "version"     : "1.0.0",
-    "main"        : "server.js",
-    "dependencies" : {
-        "express"       : "~4.0.0",
-        "ejs"           : "~0.8.5",
-        "mongoose"      : "~3.8.1",
-        "body-parser"   : "~1.0.0",
-        "jsonwebtoken"  : "latest",
-        "express-jwt"   : "latest",
-        "morgan"        : "latest"
-    },
-    "scripts": {
-        "start": "node server.js"
-    },
-    "repository": {
-        "type" : "git",
-        "url"  : "git+https://github.com/BrunoViera/adoptame.git"
-    },
-    "bugs" : {
-        "url": "https://github.com/BrunoViera/adoptame/issues"
-    },
-    "homepage": "https://github.com/BrunoViera/adoptame#readme"
+  "author": "Bruno Viera | Javier Dominguez",
+  "name": "adoptame",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "ejs": "~0.8.5",
+    "mongoose": "~3.8.1",
+    "body-parser": "~1.0.0",
+    "jsonwebtoken": "latest",
+    "express-jwt": "latest",
+    "morgan": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoViera/adoptame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrunoViera/adoptame/issues"
+  },
+  "homepage": "https://github.com/BrunoViera/adoptame#readme",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-changed": "^1.3.0",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-compass": "^2.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2"
+  }
 }
