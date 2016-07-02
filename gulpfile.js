@@ -6,14 +6,31 @@ var gulp = require('gulp'),
     compass = require('gulp-compass'),
     del = require('del');
 
-
-// Definamos algunas constantes que puedan reusarse
 const sassFolder = 'app/assets/css/sass';
-const vendorsFolder = 'app/assets/css/vendors/**/*';
+const cssVendors = 'app/assets/css/vendors/**/*';
 const cssSRC = sassFolder + '/**/*.scss';
 const cssDEST = 'public/css';
 const cssVND = 'public/css/vendors';
 const cssTMP = 'public/css/tmp';
+
+const jsVendors = 'app/assets/js/vendors/**/*';
+const jsVND = 'public/js/vendors';
+
+const viewsSRC = 'app/views/**/*';
+const viewsDEST = 'public/views';
+
+gulp.task('build', ['styles', 'vendors-styles', 'vendors-js', 'views'], function() {
+    gulp.start('clean');
+});
+
+gulp.task('watch', function () {
+   gulp.watch(cssSRC, ['styles']);
+   gulp.watch(viewsSRC, ['views']);
+});
+
+gulp.task('clean', function(cb) {
+    del([cssTMP], cb);
+});
 
 gulp.task('styles', function() {
     return gulp.src(cssSRC)
@@ -31,7 +48,15 @@ gulp.task('styles', function() {
 });
 
 gulp.task('vendors-styles', function() {
-    return gulp.src([vendorsFolder]).pipe(gulp.dest(cssVND));
+    return gulp.src([cssVendors]).pipe(gulp.dest(cssVND));
+});
+
+gulp.task('vendors-js', function() {
+    return gulp.src([jsVendors]).pipe(gulp.dest(jsVND));
+});
+
+gulp.task('views', function() {
+    return gulp.src([viewsSRC]).pipe(gulp.dest(viewsDEST));
 });
 
 // gulp.task('js', function() {
@@ -48,15 +73,3 @@ gulp.task('vendors-styles', function() {
 //         }))
 //         .pipe(gulp.dest(cssDEST));
 // });
-
-gulp.task('clean', function(cb) {
-    del([cssTMP], cb);
-});
-
-gulp.task('build', ['styles'], function() {
-    gulp.start('clean');
-});
-
-gulp.task('watch', function () {
-   gulp.watch(cssSRC, ['styles']);
-});

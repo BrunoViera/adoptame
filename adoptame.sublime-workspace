@@ -523,7 +523,26 @@
 			"file": "gulpfile.js",
 			"settings":
 			{
-				"buffer_size": 1557,
+				"buffer_size": 1539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nGulp\n----\n\n     _____       _       \n    / ____|     | |      \n   | |  __ _   _| |_ __  \n   | | |_ | | | | | '_ \\ \n   | |__| | |_| | | |_) |\n    \\_____|\\__,_|_| .__/ \n                  | |    \n                  |_|    \n  \n  \n  Sorry to interrupt\n  ==================\n  \n  First of all, thanks for installing sublime-gulp!\n  \n  You can start using it now by choosing 'Gulp' from your command pallete or selecting one of the available snippets.\n  \n  If you want to know a bit more of what you can do with the package you can:\n  \n  * Check the package settings on Preference -> Package Settings -> Gulp -> Settings - Default\n  \n  * Take a look at the README at: https://github.com/NicoSantangelo/sublime-gulp \n  \n  \n  For issues or feature requests, head over to https://github.com/NicoSantangelo/sublime-gulp/issues\n  \n  Thanks again!\n",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "public/js/main.min.js",
+			"settings":
+			{
+				"buffer_size": 20,
 				"line_ending": "Unix"
 			}
 		}
@@ -555,10 +574,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 84.0,
-		"last_filter": "jsbea",
+		"height": 168.0,
+		"last_filter": "package remo",
 		"selected_items":
 		[
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"gulp last",
+				"Gulp: Run last task"
+			],
+			[
+				"gulp",
+				"Gulp: Run last task"
+			],
+			[
+				"gulp li",
+				"Gulp: List plugins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"jsbea",
 				"Javascript Beautify"
@@ -694,10 +733,6 @@
 			[
 				"css",
 				"Set Syntax: CSS"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"json",
@@ -1054,22 +1089,6 @@
 			[
 				"JS BEA",
 				"Javascript Beautify"
-			],
-			[
-				"js e",
-				"AngularJS: Toggle - Enable data- Prefix"
-			],
-			[
-				"beat",
-				"HTMLBeautify"
-			],
-			[
-				"JSB",
-				"Javascript Beautify"
-			],
-			[
-				"packa ins",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 503.0
@@ -1094,20 +1113,21 @@
 	"expanded_folders":
 	[
 		"/vagrant/adoptame",
-		"/vagrant/adoptame/app",
-		"/vagrant/adoptame/app/assets",
 		"/vagrant/adoptame/app/assets/css",
 		"/vagrant/adoptame/app/assets/css/sass",
 		"/vagrant/adoptame/app/assets/js",
-		"/vagrant/adoptame/public",
-		"/vagrant/adoptame/public/css"
+		"/vagrant/adoptame/app/assets/js/vendors"
 	],
 	"file_history":
 	[
-		"/vagrant/adoptame/app/assets/css/tmp/ie.css",
-		"/vagrant/adoptame/public/css/ie.css",
-		"/vagrant/adoptame/app/assets/css/config.rb",
+		"/Users/brunovieraguerra/Library/Application Support/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings",
+		"/vagrant/adoptame/.gitignore",
+		"/vagrant/adoptame/app/assets/css/sass/ie.scss",
+		"/vagrant/adoptame/app/assets/css/sass/screen.scss",
 		"/vagrant/adoptame/public/css/screen.css",
+		"/vagrant/adoptame/public/css/ie.css",
+		"/vagrant/adoptame/app/assets/css/tmp/ie.css",
+		"/vagrant/adoptame/app/assets/css/config.rb",
 		"/vagrant/adoptame/server.js",
 		"/vagrant/adoptame/public/views/index.html",
 		"/vagrant/adoptame/app/assets/js/main.js",
@@ -1117,7 +1137,6 @@
 		"/vagrant/adoptame/app/config/config.js",
 		"/vagrant/adoptame/app/models/chofer.js",
 		"/vagrant/adoptame/app/config/routes.js",
-		"/vagrant/adoptame/.gitignore",
 		"/Users/brunovieraguerra/Desktop/startbootstrap-freelancer-1.0.5/LICENSE",
 		"/vagrant/adoptame/nodemon.json",
 		"/vagrant/adoptame/adoptame.sublime-project",
@@ -1228,10 +1247,7 @@
 		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_video_les_plus_vues.twig",
 		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Snippets/glam_video_menu.twig",
 		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM Empty Decorator.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM SP Decorator.twig",
-		"/acilia/Merlin/src/Merlin/BackendBundle/Controller/glam/GalleriesController.php",
-		"/acilia/Merlin/src/Merlin/BackendBundle/Resources/public/glam/js/main.js",
-		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Bricks/glam_top_personnalites.twig"
+		"/acilia/Merlin/src/Merlin/BackendBundle/DataFixtures/Templates/glam/Decorators/GLAM SP Decorator.twig"
 	],
 	"find":
 	{
@@ -1377,6 +1393,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"var",
+			"app/assets/css/sass/*.scss",
+			"style_DEST",
+			"style_SRC",
+			"notify",
 			"var ",
 			");",
 			"/app/assets/css/config.rb",
@@ -1499,12 +1520,7 @@
 			"2",
 			"ops_caroussel_image_",
 			"ops_caroussel_image_1",
-			"ops_caroussel_url_1",
-			"with configuration using Images %}",
-			"with configuration using Images %}\n },",
-			"brand_block_image_1",
-			"brand_block_title_img",
-			" with configuration using Images %}"
+			"ops_caroussel_url_1"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1548,15 +1564,224 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1557,
+						"buffer_size": 1539,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								816,
-								816
+								856,
+								856
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										857,
+										858
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										569,
+										570
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								884,
+								884
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"open":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"default_dir": "/vagrant/adoptame",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/main.min.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1629,15 +1854,13 @@
 								"bh_c_define_close",
 								"bh_c_define_content"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 282.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1700,12 +1923,16 @@
 		"selected_items":
 		[
 			[
-				"indexhtml",
-				"public/views/index.html"
-			],
-			[
 				"gulp",
 				"gulpfile.js"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"indexhtml",
+				"public/views/index.html"
 			],
 			[
 				"packa",
@@ -2206,10 +2433,6 @@
 			[
 				"twig/extensions/merlinextension.php",
 				"src/Merlin/BackendBundle/Twig/Extensions/MerlinExtension.php"
-			],
-			[
-				"merlinextensi",
-				"src/Merlin/BackendBundle/Twig/Extensions/MerlinExtension.php"
 			]
 		],
 		"width": 0.0
@@ -2217,19 +2440,23 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "mer",
+		"last_filter": "e",
 		"selected_items":
 		[
+			[
+				"e",
+				"/acilia/Merlin.sublime-project"
+			],
 			[
 				"mer",
 				"/acilia/Merlin.sublime-project"
 			],
 			[
-				"emr",
+				"",
 				"/acilia/Merlin.sublime-project"
 			],
 			[
-				"",
+				"emr",
 				"/acilia/Merlin.sublime-project"
 			],
 			[
