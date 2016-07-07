@@ -1,3 +1,5 @@
+https://travis-ci.org/BrunoViera/adoptame.svg?branch=master
+
 # Adoptame
 
 ## Synopsis
