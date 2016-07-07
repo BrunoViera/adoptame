@@ -4,13 +4,10 @@
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
-    "express": "~4.0.0",
-    "ejs": "~0.8.5",
-    "mongoose": "~3.8.1",
     "body-parser": "~1.0.0",
-    "jsonwebtoken": "latest",
-    "express-jwt": "latest",
-    "morgan": "latest"
+    "bulma": "^0.1.0",
+    "ejs": "~0.8.5",
+    "express": "~4.0.0"
   },
   "scripts": {
     "start": "node server.js"
@@ -31,5 +28,12 @@
     "gulp-clean-css": "^2.0.10",
     "gulp-compass": "^2.1.0",
     "gulp-rename": "^1.2.2"
-  }
+  },
+  "description": "## Synopsis Adoptame es un sitio destinado a la promoción de animales en adopción. Donde la información se pueda ingresar una vez y compartirse en todas las redes sociales, llegando de igual manera a todo el mundo.",
+  "keywords": [
+    "adopcion",
+    "animales",
+    "uruguay"
+  ],
+  "license": "ISC"
 }

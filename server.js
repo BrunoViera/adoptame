@@ -1,10 +1,10 @@
 var express     = require('express');
 var app         = express();
 var port        = process.env.PORT || 3000;
-var morgan      = require('morgan');
+// var morgan      = require('morgan');
 // var mongoose    = require('mongoose');
 var bodyParser  = require('body-parser');
-var expressJWT  = require('express-jwt');
+// var expressJWT  = require('express-jwt');
 var config      = require('./app/config/config');
 var apiRoutes   = require('./app/config/routes.js');
 
@@ -17,7 +17,7 @@ app.set('view engine', 'ejs');
 // app.set('superSecret', config.secret);
 
 app.use(bodyParser.json());
-app.use(morgan('dev'));
+// app.use(morgan('dev'));
 
 app.use(bodyParser.urlencoded({
     extended: true
