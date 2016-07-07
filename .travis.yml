@@ -9,9 +9,3 @@ before_install:
 
 script:
   - gulp build
-
-# deploy:
-#   provider: releases
-#   api_key: "GITHUB OAUTH TOKEN"
-#   file: "FILE TO UPLOAD"
-#   skip_cleanup: true
