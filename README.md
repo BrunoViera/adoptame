@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/BrunoViera/adoptame.svg?branch=master)](https://travis-ci.org/BrunoViera/adoptame)
+
 # Adoptame
 
 ## Synopsis
