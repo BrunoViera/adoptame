@@ -11,4 +11,4 @@ script:
   - gulp build
 
 deploy:
-  - skyp_cleanup: true
+  - skip_cleanup: true
