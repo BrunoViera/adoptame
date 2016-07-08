@@ -1,44 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-        <meta name="author" content="Bruno Viera">
-        <title>Adoptame es una red de adopción de mascotas</title>
-        <link href="css/main.min.css" rel="stylesheet">
-    </head>
-    <body>
-        <section class="hero is-info is-bold is-fullheight">
-            <div class="hero-head">
-
-                <header class="nav has-shadow">
-                    <div class="container">
-                        <div class="nav-left">
-                            <a class="nav-item">
-                                <h1 class="title"><a href="/">Adoptame</a></h1>
-                            </a>
-                        </div>
-                        <span class="nav-toggle">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </span>
-                        <div class="nav-right nav-menu">
-                            <a href="/adoptar" class="nav-item">Adoptar</a>
-                            <a class="nav-item">Perdidos y Encontrados</a>
-                            <a class="nav-item">Contacto</a>
-                        </div>
-                    </div>
-                </header>
-            </div>
-            <div class="hero-body">
-                <div class="container has-text-centered">
-                    <h1 class="title">Qué es Adoptame</h1>
-                    <h2 class="subtitle">y como funciona</h2>
-                </div>
-            </div>
-        </section>
-    </body>
-</html>
+<%- contentFor('body') %>
+<section class="hero is-info is-bold is-fullheight">
+    <% include partials/_head %>
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <h1 class="title">Qué es Adoptame</h1>
+            <h2 class="subtitle">y como funciona</h2>
+        </div>
+    </div>
+</section>

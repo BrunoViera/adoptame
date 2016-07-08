@@ -7,6 +7,8 @@ var bodyParser  = require('body-parser');
 // var expressJWT  = require('express-jwt');
 var config      = require('./app/config/config');
 var apiRoutes   = require('./app/config/routes.js');
+var expressLayouts = require('express-ejs-layouts');
+
 
 // configuration ==
 // mongoose.connect(config.url);
@@ -14,6 +16,9 @@ var apiRoutes   = require('./app/config/routes.js');
 // app set ==
 app.set('views', __dirname + '/public/views');
 app.set('view engine', 'ejs');
+app.set('layout', 'layout');
+app.use(expressLayouts);
+
 // app.set('superSecret', config.secret);
 
 app.use(bodyParser.json());
