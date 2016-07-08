@@ -36,3 +36,4 @@ jspm_packages
 .sass-cache/
 *.sublime-workspace
 *.sublime-project
+adoptame.sublime-workspace
