@@ -37,3 +37,4 @@ jspm_packages
 *.sublime-workspace
 *.sublime-project
 adoptame.sublime-workspace
+public/*
