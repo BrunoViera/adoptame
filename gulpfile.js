@@ -59,18 +59,3 @@ gulp.task('views', function() {
 gulp.task('images', function() {
     return gulp.src([imgSRC]).pipe(gulp.dest(imgDEST));
 });
-
-// gulp.task('js', function() {
-//     return gulp.src(cssSRC)
-//         .pipe(compass({
-//             css: cssTMP,
-//             sass: sassFolder,
-//         }))
-//         .pipe(rename({
-//             suffix: '.min'
-//         }))
-//         .pipe(cleanCSS({
-//             compatibility: 'ie8'
-//         }))
-//         .pipe(gulp.dest(cssDEST));
-// });
