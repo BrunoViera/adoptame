@@ -7,11 +7,12 @@ var gulp = require('gulp'),
     del = require('del');
 
 const sassFolder = 'app/assets/css/sass';
-const cssVendors = 'app/assets/css/vendors/**/*';
 const cssSRC = sassFolder + '/**/*.scss';
 const cssDEST = 'public/css';
-const cssVND = 'public/css/vendors';
 const cssTMP = 'public/css/tmp';
+
+const imgSRC = 'app/assets/images/*';
+const imgDEST = 'public/images/';
 
 const jsVendors = 'app/assets/js/vendors/**/*';
 const jsVND = 'public/js/vendors';
@@ -19,7 +20,7 @@ const jsVND = 'public/js/vendors';
 const viewsSRC = 'app/views/**/*';
 const viewsDEST = 'public/views';
 
-gulp.task('build', ['styles', 'vendors-styles', 'vendors-js', 'views'], function() {
+gulp.task('build', ['styles', 'images', 'views'], function() {
     gulp.start('clean');
 });
 
@@ -47,16 +48,16 @@ gulp.task('styles', function() {
         .pipe(gulp.dest(cssDEST));
 });
 
-gulp.task('vendors-styles', function() {
-    return gulp.src([cssVendors]).pipe(gulp.dest(cssVND));
-});
-
 gulp.task('vendors-js', function() {
     return gulp.src([jsVendors]).pipe(gulp.dest(jsVND));
 });
 
 gulp.task('views', function() {
     return gulp.src([viewsSRC]).pipe(gulp.dest(viewsDEST));
+});
+
+gulp.task('images', function() {
+    return gulp.src([imgSRC]).pipe(gulp.dest(imgDEST));
 });
 
 // gulp.task('js', function() {

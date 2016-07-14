@@ -1,10 +1,19 @@
 <%- contentFor('body') %>
-<section class="hero is-info is-bold is-fullheight">
+<section class="hero is-info is-bold is-fullheight landing-page">
     <% include partials/_head %>
     <div class="hero-body">
         <div class="container has-text-centered">
-            <h1 class="title">Qué es Adoptame</h1>
-            <h2 class="subtitle">y como funciona</h2>
+            <img src="/images/logo_small.png" alt="" />
+            <h1 class="title">Hola! gracias por visitar nuestro sitio.</h1>
+            <h2 class="subtitle">Pronto seremos el sitio donde podrás:</h2>
+            <ul class="subtitle">
+                <li>Ver animales en adopción o publicar los que tengas</li>
+                <li>Publicar tu mascota perdida o ver si alguien la encontro</li>
+            </ul>
         </div>
     </div>
 </section>
+
+<script type="text/javascript">
+    mixpanel.track("landing-page");
+</script>
