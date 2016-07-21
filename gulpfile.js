@@ -19,11 +19,14 @@ const jsVND = 'public/js/vendors';
 const viewsSRC = 'app/views/**/*';
 const viewsDEST = 'public/views';
 
-gulp.task('build', ['styles', 'vendors-styles', 'vendors-js', 'views'], function() {
+const fontsSRC = 'app/assets/fonts/*';
+const fontsDEST = 'public/fonts';
+
+gulp.task('build', ['styles', 'vendors-styles', 'vendors-js', 'views', 'fonts'], function() {
     gulp.start('clean');
 });
 
-gulp.task('watch', function () {
+gulp.task('watch', ['fonts'], function () {
    gulp.watch(cssSRC, ['styles']);
    gulp.watch(viewsSRC, ['views']);
 });
@@ -58,6 +61,11 @@ gulp.task('vendors-js', function() {
 gulp.task('views', function() {
     return gulp.src([viewsSRC]).pipe(gulp.dest(viewsDEST));
 });
+
+gulp.task('fonts', function() {
+    return gulp.src([fontsSRC]).pipe(gulp.dest(fontsDEST));
+});
+
 
 // gulp.task('js', function() {
 //     return gulp.src(cssSRC)

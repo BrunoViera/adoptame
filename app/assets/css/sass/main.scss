@@ -1,5 +1,12 @@
 @import "../../../../node_modules/bulma/bulma.sass";
+@import "fa/font-awesome";
 
 .card {
     width: auto;
+}
+
+.login {
+    a {
+        color: #fff;
+    }
 }

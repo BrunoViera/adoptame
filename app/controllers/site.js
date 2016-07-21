@@ -14,6 +14,10 @@ module.exports = {
         res.render('perdidosyencontrados.ejs', { active: 2 } );
     },
 
+    getLogin: function(req, res, next) {
+        res.render('login.ejs', { active: 3 } );
+    },
+
     getPartials: function(req, res, next) {
         var name = req.params.name;
         res.render('partials/' + name);
