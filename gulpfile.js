@@ -4,7 +4,10 @@ var gulp = require('gulp'),
     rename = require('gulp-rename'),
     cleanCSS = require('gulp-clean-css'),
     compass = require('gulp-compass'),
-    del = require('del');
+    del = require('del'),
+    browserify = require('browserify'),
+    babelify = require('babelify'),
+    source = require('vinyl-source-stream');
 
 const sassFolder = 'app/assets/css/sass';
 const cssSRC = sassFolder + '/**/*.scss';
@@ -14,8 +17,8 @@ const cssTMP = 'public/css/tmp';
 const imgSRC = 'app/assets/images/*';
 const imgDEST = 'public/images/';
 
-const jsVendors = 'app/assets/js/vendors/**/*';
-const jsVND = 'public/js/vendors';
+const jsSRC = './app/assets/js/*.jsx';
+const jsDEST = 'public/js';
 
 const viewsSRC = 'app/views/**/*';
 const viewsDEST = 'public/views';
@@ -48,8 +51,12 @@ gulp.task('styles', function() {
         .pipe(gulp.dest(cssDEST));
 });
 
-gulp.task('vendors-js', function() {
-    return gulp.src([jsVendors]).pipe(gulp.dest(jsVND));
+gulp.task('js', function() {
+    return browserify({entries: jsSRC, extensions: ['.jsx'], debug: true})
+        .transform('babelify', {presets: ['es2015', 'react']})
+        .bundle()
+        .pipe(source('bundle.js'))
+        .pipe(gulp.dest(jsDEST));
 });
 
 gulp.task('views', function() {

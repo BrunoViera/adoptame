@@ -15,7 +15,9 @@
     "gulp-changed": "^1.3.0",
     "gulp-clean-css": "^2.0.10",
     "gulp-compass": "^2.1.0",
-    "gulp-rename": "^1.2.2"
+    "gulp-rename": "^1.2.2",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
   },
   "scripts": {
     "start": "node server.js",
@@ -29,7 +31,14 @@
     "url": "https://github.com/BrunoViera/adoptame/issues"
   },
   "homepage": "https://github.com/BrunoViera/adoptame#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
   "description": "## Synopsis Adoptame es un sitio destinado a la promoción de animales en adopción. Donde la información se pueda ingresar una vez y compartirse en todas las redes sociales, llegando de igual manera a todo el mundo.",
   "keywords": [
     "adopcion",
