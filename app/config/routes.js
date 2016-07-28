@@ -7,8 +7,9 @@ module.exports = function() {
 
     router.get('/', siteCtrl.getIndex);
     router.get('/adoptar', siteCtrl.getAdoptar);
-    router.get('/perdidosyencontrados', siteCtrl.getPerdidosEncontrados);
+    router.get('/perdidos_encontrados', siteCtrl.getPerdidosEncontrados);
     router.get('/login', siteCtrl.getLogin);
+    router.get('/mis_animales', siteCtrl.getMisAnimales);
     // router.get('/partials/:name', siteCtrl.getPartials);
     // router.post('/login', siteCtrl.login);
     // router.post('/registration', siteCtrl.registration);

@@ -18,6 +18,10 @@ module.exports = {
         res.render('login.ejs', { active: 3 } );
     },
 
+    getMisAnimales: function(req, res, next) {
+        res.render('misAnimales.ejs', { active: 4 } );
+    },
+
     getPartials: function(req, res, next) {
         var name = req.params.name;
         res.render('partials/' + name);
