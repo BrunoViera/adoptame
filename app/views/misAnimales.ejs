@@ -1,69 +1,129 @@
 <%- contentFor('body') %>
-<section class="hero is-info is-bold">
-    <% include partials/_head %>
-    <div class="hero-body">
+<div class="mis-animales">
+    <section class="hero is-info is-bold">
+        <% include partials/_head %>
+        <div class="hero-foot">
+            <div class="tabs is-centered is-medium">
+                <ul>
+                    <li><a>En adopción</a></li>
+                    <li><a>Perdidos</a></li>
+                    <li><a>Encontrados</a></li>
+                    <li class="is-active"><a>Agregar Animal</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
         <div class="container">
-            <div class="columns">
-                <div class="column is-one-quarter">
-                    <aside class="menu">
-                        <ul class="menu-list">
-                            <li><a href="#">En adopción</a></li>
-                            <li><a href="#">Perdidos</a></li>
-                            <li><a href="#">Encontrados</a></li>
-                        </ul>
-                    </aside>
+            <div class="columns is-multiline">
+                <div class="column is-half is-offset-one-quarter">
+                    <form class="box">
+                        <label for="tipo" class="label">Tipo</label>
+                        <p class="control">
+                            <span class="select">
+                                <select id="tipo" name="tipo">
+                                    <option>Adopción</option>
+                                    <option>Encontrado</option>
+                                    <option>Perdido</option>
+                                </select>
+                            </span>
+                        </p>
+
+                        <label class="label">Especie</label>
+                        <p class="control">
+                            <label class="radio">
+                                <input type="radio" name="especie">
+                                Canino
+                            </label>
+                            <label class="radio">
+                                <input type="radio" name="especie">
+                                Felino
+                            </label>
+                        </p>
+                        <label class="label">Sexo</label>
+                        <p class="control">
+                            <label class="radio">
+                                <input type="radio" name="sexo">
+                                Hembra
+                            </label>
+                            <label class="radio">
+                                <input type="radio" name="sexo">
+                                Macho
+                            </label>
+                        </p>
+                        <label class="label" for="edad">Edad</label>
+                        <p class="control">
+                            <input id="edad" name="edad" class="input" type="number" placeholder="Edad">
+                        </p>
+                        <label for="tipo" class="label">Tamaño</label>
+                        <p class="control">
+                            <span class="select">
+                                <select id="tipo" name="tipo">
+                                    <option>Pequeño</option>
+                                    <option>Mediano</option>
+                                    <option>Grande</option>
+                                </select>
+                            </span>
+                        </p>
+                        <label class="label" for="ubicacion">Zona/Barrio</label>
+                        <p class="control">
+                            <input id="ubicacion" name="ubicacion" class="input" type="number" placeholder="Zona/Barrio">
+                        </p>
+                        <label class="label" for="descripcion">Descripción</label>
+                        <p class="control">
+                            <textarea class="textarea" placeholder="Descripción"></textarea>
+                        </p>
+                    </form>
                 </div>
-                <div class="column is-three-quarters">
-                    <div class="columns is-multiline">
-                        <div class="column is-one-mobile is-half-tablet is-one-quarter-desktop">
-                            <div class="card">
-                                <div class="card-image">
-                                    <figure class="image is-4by3">
-                                        <img src="http://placehold.it/300x225" alt="">
-                                    </figure>
-                                </div>
-                                <div class="card-content">
-                                    <div class="media">
-                                        <div class="media-content">
-                                            <p class="title is-5">John Smith</p>
-                                        </div>
-                                    </div>
-                                    <div class="content">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        <a href="#">@bulmaio</a>.
-                                        <a href="#">#css</a>
-                                        <br>
-                                        <small>11:09 PM - 1 Jan 2016</small>
-                                    </div>
+
+                <!-- <div class="column is-one-mobile is-half-tablet is-one-quarter-desktop">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image is-4by3">
+                                <img src="http://placehold.it/300x225" alt="">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-5">John Smith</p>
                                 </div>
                             </div>
-                        </div>
-                        <div class="column is-one-mobile is-half-tablet is-one-quarter-desktop">
-                            <div class="card">
-                                <div class="card-image">
-                                    <figure class="image is-4by3">
-                                        <img src="http://placehold.it/300x225" alt="">
-                                    </figure>
-                                </div>
-                                <div class="card-content">
-                                    <div class="media">
-                                        <div class="media-content">
-                                            <p class="title is-5">John Smith</p>
-                                        </div>
-                                    </div>
-                                    <div class="content">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        <a href="#">@bulmaio</a>.
-                                        <a href="#">#css</a>
-                                        <br>
-                                        <small>11:09 PM - 1 Jan 2016</small>
-                                    </div>
-                                </div>
+                            <div class="content">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                <a href="#">@bulmaio</a>.
+                                <a href="#">#css</a>
+                                <br>
+                                <small>11:09 PM - 1 Jan 2016</small>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="column is-one-mobile is-half-tablet is-one-quarter-desktop">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="image is-4by3">
+                                <img src="http://placehold.it/300x225" alt="">
+                            </figure>
+                        </div>
+                        <div class="card-content">
+                            <div class="media">
+                                <div class="media-content">
+                                    <p class="title is-5">John Smith</p>
+                                </div>
+                            </div>
+                            <div class="content">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                <a href="#">@bulmaio</a>.
+                                <a href="#">#css</a>
+                                <br>
+                                <small>11:09 PM - 1 Jan 2016</small>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
             </div>
         </div>
-    </div>
-</section>
+    </section>
+</div>
